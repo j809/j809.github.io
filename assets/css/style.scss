@@ -17,6 +17,7 @@ ul.links {
 h1.name {
 	margin-bottom: 30px;
 	margin-top: 20px;
+	color: #505050;
 }
 
 .fab {
@@ -25,5 +26,10 @@ h1.name {
 
 ul.links a:hover, ul.links a:focus {
 	font-size: small;
+	font-weight: normal;
+}
+
+a:hover, a:focus {
+	color: #0af;
 	font-weight: normal;
 }
