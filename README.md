@@ -1,1 +1,1 @@
-# Jay Panchal
+# Personal website project
