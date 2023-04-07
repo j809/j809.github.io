@@ -21,5 +21,9 @@ h1.name {
 
 .fab {
 	font-family: 'FontAwesome';
-	font-style: normal;
+}
+
+ul.links a:hover, ul.links a:focus {
+	font-size: small;
+	font-weight: normal;
 }
