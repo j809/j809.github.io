@@ -1,1 +1,7 @@
 # About me
+
+I am currently working as a Software Engineer at Microsoft on Mixed Reality (AR/VR) tech. My team focuses on research and development of eye tracking and iris recognition algorithms for mixed reality devices (checkout Hololens). Prior to this, I worked at Amazon in the Prime Video org creating a refreshed Prime Video experience for the 200+ million users (as determined till Dec' 22).
+
+From 2019 to 2021, I completed my Masters degree in Computer Science from University of Massachusetts, Amherst. I focused heavily on Machine Learning research in Natural Language Processing, Reinforcement Learning and Information Retrieval. I worked with a team at Prime Video, Amazon building the page for new and upcoming content on Prime Video over the summer of 2020.
+
+Before coming to the States, I completed my undergraduate degree from National Institute of Technology, Surat (SVNIT). I joined Directi (later Endurance International Group) in 2016 after graduation for my first job as a Software Engineer building scalable backend services and worked in their products lab. Later I joined Gojek, a ride-hailing unicorn startup working on their e-wallet product and also helped build their central OpenID and OAuth 2.0 compliant auth platform.
