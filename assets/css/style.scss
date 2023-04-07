@@ -10,10 +10,13 @@ header {
 
 ul.links {
 	width: 100%;
+	border: 0;
+	background: inherit;
 }
 
 h1.name {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
+	margin-top: 20px;
 }
 
 .fab {
